@@ -6102,10 +6102,10 @@
     "@types/express" "^4.7.0"
     file-system-cache "2.3.0"
 
-"@sumsub/websdk-react@1.4.0":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@sumsub/websdk-react/-/websdk-react-1.4.0.tgz#daea4423ceffc8d57db63e22525d2842216db493"
-  integrity sha512-cydHjQmdkXGsj0COFaukmBHz8NzkrbeSU6ZeNbrlI83KoTkaKbuBkkkOaxY9p80L0LyMwMp1F3B1yRZr4gpLBw==
+"@sumsub/websdk-react@^2.3.1":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@sumsub/websdk-react/-/websdk-react-2.3.1.tgz#43345cbe8bfe08f38da172b8a8d282dcbca9cb17"
+  integrity sha512-v6ZKsz3DRBNRzB36hx4pPGlMJH7Biwso3YWVtApgb0pJlhWkONUnuokhd58qnA4qwAPQAamI5JOkjFL8qsFhmw==
 
 "@swc/helpers@0.5.2":
   version "0.5.2"
